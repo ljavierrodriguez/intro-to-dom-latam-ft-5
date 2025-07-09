@@ -22,6 +22,18 @@ createTextNode(text)
 apppendChild(node)
 removeChild(node)
 
+
+Operadores de Comparacion:
+
+=== identico a (valor y tipo de dato) 5 === '5' => false
+== igual a (valor) 5 == '5' => true
+!== distinto de (valor y tipo de dato)
+!= diferente de (valor)
+>= mayor o igual que
+<= menor o igual que
+> mayor que 
+< menor que
+
 */
 // Seleccionado una etiqueta
 let home = document.getElementById('home') // elemento // null
